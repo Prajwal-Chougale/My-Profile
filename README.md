@@ -2,7 +2,7 @@
 
 **Security Operations Analyst | SOC | Threat Detection | Incident Response**
 
-<a href="www.linkedin.com/in/prajwal-chougale-4101b7213">
+<a href="[www.linkedin.com/in/prajwal-chougale-4101b7213](https://www.linkedin.com/in/prajwal-chougale-4101b7213/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -49,4 +49,4 @@ Developed SIEM correlation rules, detection logic, and alert configurations usin
 
 ### 📫 Connect
 
-**LinkedIn:** [Prajwal Annasab Chougale](www.linkedin.com/in/prajwal-chougale-4101b7213)
+**LinkedIn:** [Prajwal Annasab Chougale]([www.linkedin.com/in/prajwal-chougale-4101b7213](https://www.linkedin.com/in/prajwal-chougale-4101b7213/))
