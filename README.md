@@ -1,4 +1,4 @@
-# Hey, I'm Prajwal 👋
+# Hey, I'm Prajwal 
 
 **Security Operations Analyst | SOC | Threat Detection | Incident Response**
 
