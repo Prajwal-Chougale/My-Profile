@@ -49,4 +49,4 @@ Developed SIEM correlation rules, detection logic, and alert configurations usin
 
 ### 📫 Connect
 
-**LinkedIn:** [Prajwal Annasab Chougale]([www.linkedin.com/in/prajwal-chougale-4101b7213](https://www.linkedin.com/in/prajwal-chougale-4101b7213/))
+**LinkedIn:** [Prajwal Annasab Chougale](https://www.linkedin.com/in/prajwal-chougale-4101b7213/)
