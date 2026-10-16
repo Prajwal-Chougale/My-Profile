@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-Security Operations Analyst with **2.5+ years of experience** working across SOC operations, incident response, threat hunting, and security monitoring.
+Security Operations Analyst with **3+ years of experience** working across SOC operations, incident response, threat hunting, and security monitoring.
 
 Currently focused on **SIEM, EDR/XDR, detection engineering, cloud security, and security automation**.
 
